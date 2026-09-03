@@ -1,6 +1,6 @@
 # Juno PM
 
-Juno helps RocketShip Product Managers prioritise their backlog using evidence from customer feedback, support tickets, and strategy documents, turning fragmented signals into transparent, citation-backed recommendations.
+Juno helps RocketShip Product Managers prioritise their backlog using evidence from customer feedback, support tickets on slack, and strategy documents, turning fragmented signals into transparent, citation-backed recommendations.
 
 Mark Damerum · AI Product Management · Date Aug 17-26 weeknights
 
