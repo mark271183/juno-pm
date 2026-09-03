@@ -1,6 +1,6 @@
 # Juno PM
 
-> _(one-line pitch: what Juno does, for whom, in one sentence)_
+Juno helps RocketShip Product Managers prioritise their backlog using evidence from customer feedback, support tickets, and strategy documents, turning fragmented signals into transparent, citation-backed recommendations.
 
 Mark Damerum · AI Product Management · Date Aug 17-26 weeknights
 
